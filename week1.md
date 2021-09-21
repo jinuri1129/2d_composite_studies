@@ -10,6 +10,12 @@
 
 위 사진처럼 빛의 삼원색을 이용해서 색깔을 만들어 내기 때문에, 색깔이 있는 이미지는 최소한 3개의 채널이 있어야 색깔을 표현 할 수 있다.
 
+각각의 채널의 비트수에 따라서 표현될수 있는 색깔수가 결정된다
+8비트에서는 채널당 256가지의 색이 있어 조합하면 256 * 256 * 256 = 16,777,216 가지의 색상표현이 가능하다.
+이정도 색이면 사람눈으로 구별해 내기 힘들 만큼 많은 색이지만, 컴퓨터 이미지 합성을 하면서 손실되는 색들이 많기 때문에 이미지 합성을 할때는 더 높은 비트의 사진을 사용한다 
+
+(비트심도에 대한 블로그 글 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=master_cyma&logNo=130145038232)
+
 ## Alpha
 
 <img src="https://previews.123rf.com/images/s4rt4/s4rt42005/s4rt4200500198/149737729-transparent-pattern-background-simulation-alpha-channel-png.jpg" width="300">
