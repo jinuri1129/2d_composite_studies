@@ -44,3 +44,9 @@ https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_J
 (비트심도에 관한 블로그 글 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phominator&logNo=110155856769)
 ## Colorspace
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/CIE1931xy_gamut_comparison.svg" width="300">
+
+색의 3요소인 색상, 명도, 채도를 공간좌표에 나타낸 것을 ‘색공간 (color space)’ 도는 ‘색체계(color system)’이라고 한다.
+### 색공간의 종류
+
+
+(블로그 글 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phominator&logNo=110155856769)
