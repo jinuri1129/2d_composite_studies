@@ -36,6 +36,7 @@
 ## Bit Depth
 <img src="https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_JPEG/bitdepth1.jpg?type=w2" width="300">
 https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_JPEG/bitdepth1.jpg?type=w2
+
 색 깊이는 화소 하나 즉 픽셀 하나가 가질수 있는 정보값을 말하는데 비트의 크기에 따라서 표현할 수 있는 색의 위가 넓어진다.
 
 (비트심도에 관한 블로그 글 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phominator&logNo=110155856769)
