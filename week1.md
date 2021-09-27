@@ -47,7 +47,7 @@ https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_J
 
 색의 3요소인 색상, 명도, 채도를 공간좌표에 나타낸 것을 ‘색공간 (color space)’ 도는 ‘색체계(color system)’이라고 한다.
 ### 색공간의 종류
-#### rgb
+1.rgb
 빛의 삼원색인 빨강 초록 파랑 을 섞어서 표현하는 색공간의 종류이다 컬러 모니터와 같은 곳에서 사용한다.
 
 
