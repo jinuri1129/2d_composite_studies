@@ -38,7 +38,9 @@
 https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_JPEG/bitdepth1.jpg?type=w2
 
 색 깊이는 화소 하나 즉 픽셀 하나가 가질수 있는 정보값을 말하는데 비트의 크기에 따라서 표현할 수 있는 색의 위가 넓어진다.
+높은 비트를 가진 이미지는 많은 정보를 가지고 있기 때문에 이미지 프로세싱을 많이 거치더라도 정보의 손실을 잘 버틸 수 있다.
 
+(위키백과 https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B9%8A%EC%9D%B4)
 (비트심도에 관한 블로그 글 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phominator&logNo=110155856769)
 ## Colorspace
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/CIE1931xy_gamut_comparison.svg" width="300">
