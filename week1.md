@@ -52,13 +52,16 @@ https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_J
 대표적으로 srgb 색영역이 있다
 srgb는 ntsc 72%의 색영역을 가지고 있다. 
 ntsc 에서 정한 색 규격의 72%를 표현하는 색영역이다. 사람의 눈으로 인식할 수 있는 색상의 33.3%정도 된다.
+(ntsc는 national television system committee 의 약자)
+
+
 ### Adobe RGB
 adobe 사에서 만든 색영역 srgb가 나올 당시 기술적 타협을 보고 나왔기 때문에 그것을 커버하기 위해 나오게 되었다
 srgb에서 표현하지 못했던 cyan 과 green 영역이 확장된 색영역을 가졌다.
 
 
+색영역을 크게 잡고 작업을 하고 색영역을 작게 표현하는 디스플레이에 가져간다면 색이 다르게 보일 것이다. 작업할때 어떤곳에서 영상을 상영할지 생각하고 색영영을 선택해야한다.
 
-(ntsc는 national television system committee 의 약자)
 
 
 
