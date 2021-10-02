@@ -44,3 +44,22 @@ https://mblogthumb-phinf.pstatic.net/20130105_64/phominator_1357367209369pHqV8_J
 (비트심도에 관한 블로그 글 : https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=phominator&logNo=110155856769)
 ## Colorspace
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/CIE1931xy_gamut_comparison.svg" width="300">
+색 영역은 아래의 이미지에서 표현한는 색상 (Color) 범위를 2차원으로 표현하는 X값과 Y값이 있고(수평 면), 여기에 선형 함수 또는 EOTF에 근거하여 휘도 (Luminance, 밝기 범위)를 표현하는 Z값 (수직 축)이 추가된 원뿔 모양의 3차원 벡터로 정의된다.
+
+색깔을 표현할수 있는 범위에 따라 color Gamut이 정해진다
+
+### Srgb
+대표적으로 srgb 색영역이 있다
+srgb는 ntsc 72%의 색영역을 가지고 있다. 
+ntsc 에서 정한 색 규격의 72%를 표현하는 색영역이다. 사람의 눈으로 인식할 수 있는 색상의 33.3%정도 된다.
+### Adobe RGB
+adobe 사에서 만든 색영역 srgb가 나올 당시 기술적 타협을 보고 나왔기 때문에 그것을 커버하기 위해 나오게 되었다
+srgb에서 표현하지 못했던 cyan 과 green 영역이 확장된 색영역을 가졌다.
+
+
+
+(ntsc는 national television system committee 의 약자)
+
+
+
+나무위키https://namu.wiki/w/%EC%83%89%20%EC%98%81%EC%97%AD#s-1
