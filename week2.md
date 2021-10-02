@@ -12,6 +12,8 @@
 
 
 https://blog.daum.net/trts1004/12109543
+http://rapapa.net/?p=3406
+
 # aces
 
 # PreMultiplication
