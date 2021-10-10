@@ -7,3 +7,15 @@
 다른 이미지와 합성하기 위해서 소스에서 필요한 부분을 잘라 내야 한다.
 크로마키에서 촬영했다면 키잉(keying) 을 이용하고, 그것이 아니라면 로토스코프 (rotoscope)를 통해서 사용할 부분과 필요없는 부분을 때어낸다
 https://en.wikipedia.org/wiki/Rotoscoping
+
+# merge operations
+영상합성에서 채널 간 계산을 쉽게 해주는 노드인 merge 노드에 대한 설명이다.
+
+## atop
+
+Ab+B(1-a)
+이미지가 겹치는 B를 A가 덮고 이미지 B의 모양을 보여준다.
+<img src="https://learn.foundry.com/nuke/content/resources/images/ug_images/merge_ops1.png" width="400">
+
+
+https://learn.foundry.com/nuke/content/comp_environment/merging/merge_operations.html
