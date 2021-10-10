@@ -44,4 +44,6 @@ https://en.wikipedia.org/wiki/Academy_Color_Encoding_System
 
 이렇게 알파와 rgb 간 계산을 해서 이미지를 만들 수 있기 때문에 다양한 블랜딩 모드를 사용할 수 있다. (3주차 참조)
 https://limnu.com/webgl-blending-youre-probably-wrong/
+
 https://en.wikipedia.org/wiki/Alpha_compositing
+
