@@ -25,8 +25,7 @@ aces 는 Academy Color Encoding System 의 약자이다
 즉, 다른 색공간에서 찍힌 소스들을 통일시켜 색감이 달라지는 문제점을 보완하기 위함이다.
 
 
-<img src="https://i1.wp.com/schoolofcolor.org/wp-content/uploads/2018/11/Post_HDTV_Workflow_Part_II_04.jpg?resize=768%2C585
-" width="400">
+<img src="https://i1.wp.com/schoolofcolor.org/wp-content/uploads/2018/11/Post_HDTV_Workflow_Part_II_04.jpg?resize=768%2C585" width="400">
 https://en.wikipedia.org/wiki/Academy_Color_Encoding_System
 
 # PreMultiplication
