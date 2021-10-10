@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Rotoscoping
 
 Ab+B(1-a)
 이미지가 겹치는 B를 A가 덮고 이미지 B의 모양을 보여준다.
-<img src="https://learn.foundry.com/nuke/content/resources/images/ug_images/merge_ops1.png" width="400">
+<img src="https://learn.foundry.com/nuke/content/resources/images/ug_images/merge_ops1.png" width="200">
 
 
 https://learn.foundry.com/nuke/content/comp_environment/merging/merge_operations.html
