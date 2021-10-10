@@ -31,11 +31,17 @@ aces 는 Academy Color Encoding System 의 약자이다
 https://en.wikipedia.org/wiki/Academy_Color_Encoding_System
 
 
-# straight
-스트레이트 방식은 rgb 의 색에 상관없이 모양틀로 알파를 단순하게 뚫어버리는 것이다
+# straight & PreMultiplication
 <img src="https://limnu.com/wp-content/uploads/2016/06/premult-vs-straight.jpeg" width="600">
 
+스트레이트 방식은 rgb 값에 상관없이 모양틀로 알파를 단순하게 뚫어버리는 것이다.
+프리멀트는 rgb 값에다 alpha 값을 곱해서 알파를 표현한다.
 
-# PreMultiplication
+스트레이트는 알파가 한번 저장되면 이미지를 다시 원래돼로 돌릴 수 없지만, 프리멀트 방식은 rgb 에다 alpha 를 곱해서 표현한 것이기 때문에, 알파의 값이 변해도 상관없다.
 
+포토샾에서 지우개로 이미지를 지우고 투명하게 만든 이미지를 저장하고 나중에 다시 그 파일을 열었을때 원본 이미지로 되돌릴 수 없지만,
+프리멀트로 알파를 곱해서 이미지를 투명하게 만들었을때는 알파를 다시 나눠주면 원본이미지가 생길것이다.
 
+이렇게 알파와 rgb 간 계산을 해서 이미지를 만들 수 있기 때문에 다양한 블랜딩 모드를 사용할 수 있다. (3주차 참조)
+https://limnu.com/webgl-blending-youre-probably-wrong/
+https://en.wikipedia.org/wiki/Alpha_compositing
