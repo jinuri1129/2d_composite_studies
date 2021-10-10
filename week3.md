@@ -12,10 +12,11 @@ https://en.wikipedia.org/wiki/Rotoscoping
 영상합성에서 채널 간 계산을 쉽게 해주는 노드인 merge 노드에 대한 설명이다.
 
 ## atop
+<img src="https://learn.foundry.com/nuke/content/resources/images/ug_images/merge_ops1.png" width="200">
 
 Ab+B(1-a)
 이미지가 겹치는 B를 A가 덮고 이미지 B의 모양을 보여준다.
-<img src="https://learn.foundry.com/nuke/content/resources/images/ug_images/merge_ops1.png" width="200">
+
 
 
 https://learn.foundry.com/nuke/content/comp_environment/merging/merge_operations.html
