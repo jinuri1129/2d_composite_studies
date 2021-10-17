@@ -28,6 +28,8 @@ https://www.youtube.com/watch?v=hO2mnKqAgKw
 
 
 이미지 딥러닝을 통해 비슷한 이미지를 컴퓨터가 학습해서 프로세싱 해주는 코드를 발견해서 테스트를 해보았다 
+https://github.com/TachibanaYoshino/AnimeGANv2 (코드 저작자)
+
 
 <img src="https://user-images.githubusercontent.com/76280155/137619891-a2f74820-389b-4556-a235-6488f5d9a60c.jpg" width="600">
 
