@@ -1,3 +1,4 @@
+# Week3
 # Rotoscoping
 <img src="https://www.pluralsight.com/content/pluralsight/en/blog/film-games/und/understanding-rotoscoping-process-every-vfx-artist-know/_jcr_content/main/hero_blog_block/image-res.img.jpg/1574113293593.jpg" width="400">
 
