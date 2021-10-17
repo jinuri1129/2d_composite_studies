@@ -9,6 +9,7 @@
 
 크로마키를 깔끔하게 따 내기 위해서 크로마키쪽에도 조명을 쬐어서 그림자를 최대한 없애주고, dispill을 활용해서 빛 때문이거나 모션블러 때문에 초록색이 묻은 부분도 수정해주고, 그마저도 완성이 되지 않는다면 로토스코핑으로 일일히 잡아 주어야 한다.
 <img src="https://luismpla.com/wp-content/uploads/2016/05/Despilling_sample.jpg" width="400">
+
 위 사진은 디스필을 활용해서 영역을 침범한 녹색 부분을 제거해 주었다.
 
 https://wikidocs.net/30096
