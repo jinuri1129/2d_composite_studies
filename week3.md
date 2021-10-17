@@ -11,7 +11,8 @@ https://en.wikipedia.org/wiki/Rotoscoping
 # merge operations
 영상합성에서 채널 간 계산을 쉽게 해주는 노드인 merge 노드에 대한 설명이다.
 
-<img src="file:///C:/Users/admin/Downloads/Screenshots/1.png" width="800">
+<img src="![1](https://user-images.githubusercontent.com/76280155/137613551-5ddfa123-6644-46eb-8eff-4abe72662e69.png)
+" width="800">
 
 
 https://learn.foundry.com/nuke/content/comp_environment/merging/merge_operations.html
