@@ -6,6 +6,15 @@ OpenEXR은 ILM에서 개발한 HDR 이미지 포맷이다. 자유 소프트웨�
 예를 들면, 기존의 이미지 처리에서는 컬러에대한 정보만을 주로 다루었지만, 조지 루카스는 이미지정보에 컬러뿐만 아니라, 현장 요구에 부응하는 알파채널이나 카메라 앵글에 대한 정보를 담는 파일 포맷을 필요로 했고 이를 개발해냈다. 
 (위키 백과 설명 https://ko.wikipedia.org/wiki/OpenEXR)
 
+
+EXR 포맷은 8비트와 16비트 정수이미지는 지원하지 않는다 (편집용 포맷이라는 말)
+16비트 및 32비트 부동소수점만 지원하는데 색상값이 소수점단위로 바꿀수 있으니 편집에 용의하다. 그많큼 파일크기가 큰편
+
+
+다양한 AOV 를 저장 가능 (다중채널 지원)
+3D랜더할 때 exr 하나에 정보가 다들어 갈 수 있어서 유용 
+beaty normal, alpha, deapth, diffuse, specular, roughness, metalness, 원한다면 패스를 더 추가 할 수도 있다.
+
 CG 소프트 웨어 영상을 보다보니 EXR 이라는 파일포맷이 CG에서 많이 사용 되었다 이육가 궁금해서 조사해 보았다.
 
 ## HDR
@@ -24,3 +33,6 @@ HDR 은 high dynamic range image 의 약자로 아주 넓은 범위의 밝기를
 ![hdr](https://user-images.githubusercontent.com/76280155/140640088-fa06dd23-6e57-494f-9b8e-133bc9c73618.jpg)
 낮은 노출부터 높은 노출을 찍어서 하나의 이미지로 만들어져 있다.
 (위키 백과 설명 https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4_%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9_%EB%A0%88%EC%9D%B8%EC%A7%80_%EC%9D%B4%EB%AF%B8%EC%A7%95)
+
+
+
