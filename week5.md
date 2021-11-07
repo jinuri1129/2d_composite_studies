@@ -34,5 +34,9 @@ HDR 은 high dynamic range image 의 약자로 아주 넓은 범위의 밝기를
 낮은 노출부터 높은 노출을 찍어서 하나의 이미지로 만들어져 있다.
 (위키 백과 설명 https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4_%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9_%EB%A0%88%EC%9D%B8%EC%A7%80_%EC%9D%B4%EB%AF%B8%EC%A7%95)
 
+## AOV (multi passes)
+src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbck1zN%2FbtqtY0ZaQgP%2F1YxxYaDFB47Ukl142JVPZK%2Fimg.jpg
+" width="600">
+
 
 
