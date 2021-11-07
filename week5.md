@@ -1,1 +1,1 @@
-# 2d_composite_studies
+# open EXR
