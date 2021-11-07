@@ -11,8 +11,14 @@ CG 소프트 웨어 영상을 보다보니 EXR 이라는 파일포맷이 CG에�
 ## HDR
 exr 에서는 HDR 을 지원한다고 한다.
 HDR 은 high dynamic range image 의 약자로 아주 넓은 범위의 밝기를 표현할 수 있는 이미지를 말한다.
+
 <img src="https://ww.namu.la/s/f714c821d1e60cbc34ef6ca1a6ba8c765b1d8adcfefc526336979ddf19bc19fdd26774191af28ab126f061edf19fbeff1d25f7dc23b34d8f2fd065cc5d24d05fb0b0075f335b02ad3cdb0648accf66b4c44fb79460971cacd32ba3422e063eb1" width="300">
 
 
-src="https://w.namu.la/s/399483d3a38775d964d7d9e1152e8b3a3a772706a94a9bfce276cfd4dc06bd40b2b49d1f34934d7be1da353290c908dd2d569ca83e191d7b854664194a671783f85e9d1a8e4330d7c8547cec147f7c6ce9be2940c32533c0ffdf865a94f81c5ad08c905dee6a2fa33f249a315049308b" width="600">
+<img src="https://w.namu.la/s/399483d3a38775d964d7d9e1152e8b3a3a772706a94a9bfce276cfd4dc06bd40b2b49d1f34934d7be1da353290c908dd2d569ca83e191d7b854664194a671783f85e9d1a8e4330d7c8547cec147f7c6ce9be2940c32533c0ffdf865a94f81c5ad08c905dee6a2fa33f249a315049308b" width="600">
+
+한 이미지 안에 다양한 노출값이 담겨있다.
+
+다양한 노출을 저장할 수 있기때문에 3D 에서 조명으로서 사용되기도 한다.
+![hdr](https://user-images.githubusercontent.com/76280155/140640088-fa06dd23-6e57-494f-9b8e-133bc9c73618.jpg)
 
