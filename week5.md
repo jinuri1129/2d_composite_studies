@@ -31,12 +31,46 @@ HDR 은 high dynamic range image 의 약자로 아주 넓은 범위의 밝기를
 다양한 노출을 저장할 수 있기때문에 3D 에서 조명으로서 사용되기도 한다.
 
 ![hdr](https://user-images.githubusercontent.com/76280155/140640088-fa06dd23-6e57-494f-9b8e-133bc9c73618.jpg)
+
 낮은 노출부터 높은 노출을 찍어서 하나의 이미지로 만들어져 있다.
 (위키 백과 설명 https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4_%EB%8B%A4%EC%9D%B4%EB%82%B4%EB%AF%B9_%EB%A0%88%EC%9D%B8%EC%A7%80_%EC%9D%B4%EB%AF%B8%EC%A7%95)
 
 ## AOV (multi passes)
-src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbck1zN%2FbtqtY0ZaQgP%2F1YxxYaDFB47Ukl142JVPZK%2Fimg.jpg
-" width="600">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbck1zN%2FbtqtY0ZaQgP%2F1YxxYaDFB47Ukl142JVPZK%2Fimg.jpg" width="600">
+
+cg 랜더링을 할때 다양한 패스를 뽑아서 영상 합성이 가능하다.
+멀티 패스 랜더의 강점은 수정이 쉽다는 것이다. 다시 랜더링 하려면 너무 오래 걸리기 때문에 멀티 패스로 뽑아서 필요한 부분만 수정할 수 있다.
+aov 종류
+
+beauty - 모든 요소가 합쳐져 RGB로 완성된 이미지
 
 
 
+direct_diffuse - 광원으로부터 직접 빛을 받아 생긴 밝기
+
+direct_specular - 광원으부터 직접 빛을 받아 생긴 윤광
+
+indirect_diffuse - 다른 곳으로부터 반사된 빛이 만드는 밝기
+
+indirect specular - 다른 곳으로부터 반사된 빛이 만드는 윤광
+
+emission - 스스로 빛을 내는 emission (해당 재질이 있을 경우 사용)
+
+reflection - 반사 (금속 재질이 있을 경우 사용)
+
+refraction - 굴절 (유리 재질이 있을 경우 사용)
+
+sss (sub-surface scattering) - 피부 쉐이더 (해당 재질이 있을 경우 사용)
+
+Volume - 볼륨 라이트 (해당 라이트가 있을 경우 사용)
+
+Crypto_material - 쉐이더로 구분, 각자 다른 매트를 생성
+
+Crypto_object - 오브젝트 이름으로 구분, 각자 다른 매트를 생성
+
+Light Group 1, 2, 3...
+
+zdepth - 깊이감을 나타낸 맵
+
+
+이를 활용해 합성 프로그램에서 빛의 색을 바꾼다던지 각각의 패스의 세기를 조정할 수 있다
