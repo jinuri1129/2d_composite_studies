@@ -20,5 +20,7 @@ HDR 은 high dynamic range image 의 약자로 아주 넓은 범위의 밝기를
 한 이미지 안에 다양한 노출값이 담겨있다.
 
 다양한 노출을 저장할 수 있기때문에 3D 에서 조명으로서 사용되기도 한다.
+
 ![hdr](https://user-images.githubusercontent.com/76280155/140640088-fa06dd23-6e57-494f-9b8e-133bc9c73618.jpg)
+낮은 노출부터 높은 노출을 찍어서 하나의 이미지로 만들어져 있다.
 
