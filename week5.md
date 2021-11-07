@@ -15,7 +15,7 @@ EXR 포맷은 8비트와 16비트 정수이미지는 지원하지 않는다 (편
 3D랜더할 때 exr 하나에 정보가 다들어 갈 수 있어서 유용 
 beaty normal, alpha, deapth, diffuse, specular, roughness, metalness, 원한다면 패스를 더 추가 할 수도 있다.
 
-CG 소프트 웨어 영상을 보다보니 EXR 이라는 파일포맷이 CG에서 많이 사용 되었다 이육가 궁금해서 조사해 보았다.
+CG 소프트 웨어 영상을 보다보니 EXR 이라는 파일포맷이 CG에서 많이 사용 되었다 이유가 궁금해서 조사해 보았다.
 
 ## HDR
 exr 에서는 HDR 을 지원한다고 한다.
