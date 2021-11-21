@@ -31,7 +31,14 @@ deapth of field는 초점거리를 뜻한다
 위 사진도 서로 다른 초점거리를가진 랜즈로 동일한 위치에서 찍었다면 사람 얼굴이 다 들어오지 않는 경우도 생길것이다.
 그래서 사람얼굴이 다 나오게 카메라를 좀더 뒤로 이동했기 때문에 원근이 다르게 느껴진다
 
-# 조리개!
-[25156F4B57E21C5A24](https://user-images.githubusercontent.com/76280155/142769261-bc2e70dc-5115-44a9-8463-baf7c0a51c0b.jpg)
+# 조리개
+<img src="https://t1.daumcdn.net/cfile/tistory/25156F4B57E21C5A24?original" width="600">
+조리개는 눈의 동공에 해당하는 사진기 부품이다
+조리개를 통해서 사진기 내부에 빛이 들어오는 양을 결정한다.
+
+열고 닫는 정도를 조리개 수치라고 부르고 f로 표기한다.
+<img src="https://user-images.githubusercontent.com/76280155/142769349-e972d0dd-b4b7-41e6-90b1-b8b6513938ab.jpg" width="600">
+조리개의 크기에 따른 모양 변화
+
 
 
