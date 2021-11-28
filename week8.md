@@ -97,3 +97,28 @@ atmospheric 한 효과를 얻을 수 있다
 ![image](https://user-images.githubusercontent.com/76280155/143734231-258d5847-8c9e-46b3-be0a-1bf0b40b0c70.png)
 피부톤과 반대되는 색상을 활용해 문신을 했다 전체적으로 노란색의 분위기에서 문신이 눈에 잘 들어온다
 
+## split complementary
+![image](https://user-images.githubusercontent.com/76280155/143734278-f6185ffb-87d6-466f-abe4-c59ae4f4f59d.png)
+컴플리먼트리와 비슷한데 주색과  보색이 되는 색의 주변색만 활용하는 것이다!
+[image](https://user-images.githubusercontent.com/76280155/143734301-596345c1-e74f-440b-97a3-d4cf10c76255.png)
+보색에서 hueshift 한 색들을 사용했기 때문에 컴프리먼터리 보다 다채롭다
+![image](https://user-images.githubusercontent.com/76280155/143734330-89850e28-01c3-4831-93f8-ea5d94c651f5.png)
+![image](https://user-images.githubusercontent.com/76280155/143734338-e09595f6-3bd8-4e43-92ea-387d4cd3642c.png)
+![image](https://user-images.githubusercontent.com/76280155/143734370-0eaec499-c030-42b7-988c-870ebd1afb21.png)
+![image](https://user-images.githubusercontent.com/76280155/143734383-fa83101d-6e52-49b2-b35c-c266ee8579fb.png)
+![image](https://user-images.githubusercontent.com/76280155/143734391-170696a3-a919-42c2-a20d-6d92acb1c216.png)
+색깔이 강하면 이런 아기자기한 느낌을 줄수 있다.
+정확하게 보색을 사용하는 것 보다 약간의 색변화를 준 보색을 사용해서 좀더 그림에 변화를 줄 수 있다
+
+## tetratic (double complementary)
+보색이 되는 색깔이 두개 있는것 쉽게 말해서 보색의 주변색만을 사용한다
+전경과 원경을 구별해 줄때 많이 사용하고
+절대 똑같은 양으로 색깔을 사용하지 않는다
+소화해내기 어렵다
+![image](https://user-images.githubusercontent.com/76280155/143734475-ba3ac88e-1dc3-4f0a-ac43-a6e8ef995496.png)
+![image](https://user-images.githubusercontent.com/76280155/143734497-e51163f8-dada-43fe-a5fb-f01ddfa31813.png)
+![image](https://user-images.githubusercontent.com/76280155/143734502-db1c2583-443b-40c9-bc24-4903356d952d.png)
+![image](https://user-images.githubusercontent.com/76280155/143734505-f2d487e1-6f52-4525-971e-e51190486abf.png)
+보색이 되는 색 모두 hueshift 된 색을 사용해서 다채롭고 대비도 잘 나타낼수 있다.
+
+
