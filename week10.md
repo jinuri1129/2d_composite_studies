@@ -46,5 +46,14 @@
 
 배경과 인물의 채도차이로 인물에 시선을 가게 유도하였고, 투시선을 활용해서 인물에게 더욱 눈이가게 유도한다
 
+![Gattaca-1997](https://user-images.githubusercontent.com/76280155/144709745-ec2d20c2-154e-4a11-a4a3-a1cc0be83816.jpg)
+채도를 달리해서 앞쪽 사람에게 시선을 유도하고 카메라를 아웃포커스 시켜서 뒤를 날렸다.
 
+
+![ob_c23ea6_gattaca-2](https://user-images.githubusercontent.com/76280155/144709766-c5db5cbb-9856-443c-9005-f82b3d9cac66.jpg)
+앞사람의 빛이더욱 강하고 대비가 세다 하지만 배경에 맺히는 빛은 앞사람보다 뒤가 세다
+
+![download](https://user-images.githubusercontent.com/76280155/144709823-9e3be98e-ff29-46e0-b146-98069f1eb63f.jpg)
+
+채도차이로 인물을 부각시키고 칼의 뱡향을 주인공 혼자 가로 방향이어서 시선을 유도한다.
 
