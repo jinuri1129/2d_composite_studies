@@ -22,3 +22,21 @@
 
 모노크로믹에 가까운 아날로거스인것 같다. 많은 색을 사용하지 않아서 분위기가 잘 잡힌다. 조금의 색변화를 주었다.
 
+![joker-poster-1200](https://user-images.githubusercontent.com/76280155/144709362-5f2e0d88-11e4-45e1-8b2e-0c417b973049.jpg)
+
+명도의 대비차이가 잘 나타나는 사진이다 인물 뒤쪽으로 강력한 폭발이 있어서 인물의 실루엣이 잘 드러난다.
+![maxresdefault-1-1-1024x576](https://user-images.githubusercontent.com/76280155/144709418-d0b258b7-9ea8-48fe-b0eb-d038fb647831.jpg)
+
+트라이아딕 색역을 사용해서 빨강 파랑 노랑의 색이 강렬하게 보인다. 이 색으로 슈퍼맨과 잡혀있는 사람에 시선을 유도한다.
+
+![Joker-Movie-Director-Responds-Far-Left-Critics](https://user-images.githubusercontent.com/76280155/144709463-b3335d09-e945-4214-919b-10eed4e628ef.jpg)
+스플릿 컴플리트 색역을 사용했다. 초록 대비되는 빨강과 노랑을 사용했다 초록의 보색인 빨간색에서 hueshift 된 색을 사용해서 대비도 잘 나타나고 색깔이 풍부해보인다
+
+![KAVON-COVER-1000x576](https://user-images.githubusercontent.com/76280155/144709561-859b2fef-66a7-4951-bce2-171e6008420a.jpg)
+아날로거스 색역, 노란색을 메인으로 잡고 초록색을 사용해서 변화를 주었다
+
+![dialogue](https://user-images.githubusercontent.com/76280155/144709619-cf8cf450-07dd-4415-8352-a95956c64445.png)
+
+채도와 대비 차이를 통해 주인공에게 시선을 유도한다.
+
+
