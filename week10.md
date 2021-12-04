@@ -39,4 +39,12 @@
 
 채도와 대비 차이를 통해 주인공에게 시선을 유도한다.
 
+![best-serial-killer-movies](https://user-images.githubusercontent.com/76280155/144709662-448eaf35-c3a2-41c8-bd3e-59e3d5162e3e.jpg)
+앞사람의 손과 전신줄이 가이드라인이 되어서 붉은 옷을 입은 사람 쪽으로 시선을 유도하고 채도와 대비 차이를 통해서 시선을 유도한다
+
+![images](https://user-images.githubusercontent.com/76280155/144709705-7d614513-85df-413d-a554-de19b51b02cf.jpg)
+
+배경과 인물의 채도차이로 인물에 시선을 가게 유도하였고, 투시선을 활용해서 인물에게 더욱 눈이가게 유도한다
+
+
 
