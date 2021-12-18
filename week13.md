@@ -24,3 +24,6 @@
 
 
 https://www.youtube.com/watch?v=pBy1g7gbXCQ
+
+
+메트페인팅은 모두 그려서 표현하기도 하지만 사진을 이용하거나 3D를 합성해서 표현하기도 한다
